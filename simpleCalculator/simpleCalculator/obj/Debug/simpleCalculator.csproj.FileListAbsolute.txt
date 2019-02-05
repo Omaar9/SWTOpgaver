@@ -1,0 +1,7 @@
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csprojAssemblyReference.cache
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\farha\Desktop\Sundhedsteknologi\4.Semester\Software test\Opgaver\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
